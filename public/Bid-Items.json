@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A high-resolution DSLR camera perfect for photography enthusiasts.",
+      "currentBidPrice": 249.99,
+      "timeLeft": "3 days",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/fV1TB84M/Bid1-Camera.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "A classic acoustic guitar with a rich, full sound.",
+      "currentBidPrice": 89.50,
+      "timeLeft": "5 days",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/PspHS9rC/Bid2-gitter.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Powerful and lightweight laptop with 16GB RAM and 512GB SSD.",
+      "currentBidPrice": 720.00,
+      "timeLeft": "1 day",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/HLkMpP63/Bid3-Laptop.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Luxury stainless steel wristwatch with leather strap.",
+      "currentBidPrice": 150.00,
+      "timeLeft": "2 days",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/wZMwj9bp/Bid4-Watch.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Ergonomic office chair with adjustable height and lumbar support.",
+      "currentBidPrice": 60.75,
+      "timeLeft": "4 days",
+      "bidsCount": 6,
+      "image": "https://i.ibb.co.com/whF3ZCF2/Bid5-Chair.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "First edition hardcover of a bestselling novel.",
+      "currentBidPrice": 25.00,
+      "timeLeft": "6 days",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/rRky8b4w/Bid6-Book.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "A fresh bouquet of mixed seasonal flowers in a decorative vase.",
+      "currentBidPrice": 30.25,
+      "timeLeft": "2 days",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/G4HfPgzp/Bid7-Flowers.png"
+    }
+  ]
+  
