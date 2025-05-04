@@ -1,42 +1,13 @@
 
 # 🧾 **Auction Gallery Website**
 
-Welcome to the **Auction Gallery Project** 🎯  
-This project is built using **ReactJS** and follows the design and functionality as provided in **Figma**.
+"AuctionGallery" - A sleek and interactive auction platform showcasing active bids and favorite collectibles, making online auctions engaging and user-friendly.
+
+## Live Link: https://p20-auction-gallery-shad910.netlify.app/
 
 ---
 
-## Private Repository Link: https://classroom.github.com/a/Da-qpfDs
-
----
-
-## Deadline:
-
-    📅 Deadline For 60 marks: 11th April, 2025 ( 11:59 pm ⏱️)
-
-    📅 No Deadline For 50 marks
-
-    📅 Deadline For 30 marks: Any time after 11th April, 2025
-
---- 
-
-## 🌟 **Key Guidelines (Must Follow)**
-
-🚫 **Do NOT:**
-- ❌ Ask about **mark distribution** in the group.
-- ❌ Post assignment feedback after receiving it.
-
-✅ **Do:**
-- 💬 If you have a complaint or issue, **join a support session** and discuss.
-- 🧠 Use **relevant and meaningful text** – no `lorem ipsum`.
-- 🎨 You can change colors, **but avoid using gobindo colors**.
-- ✅ Make sure to create **8 meaningful Git commits** with clear messages.
-
----
-
-## 📌 **Main Requirements**
-
-### ✅ Navbar 
+### ✅ Navbar
 - Design the navbar **exactly like the Figma**.
 
 ### 🖼️ Banner 
@@ -116,7 +87,6 @@ This project is built using **ReactJS** and follows the design and functionality
 ---
 
 Happy Coding! 🚀  
-If you get stuck, remember to reach out during support sessions! 💬
 
 --- 
 
